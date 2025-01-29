@@ -12,8 +12,10 @@
 ![ILLUSTRATOR](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 # SKILLS LEARNING
-### -> CYBER SECURITY
+### -> AWS - ESCOLA DA NUVEM
+### -> WEB BACKEND - JAVA | HTML | CSS | JAVASCRIPT
 ### -> ANDROID STUDIO - JAVA
+### -> CYBER SECURITY | REDES
 
 # MY GRAPH
 ![](https://github-readme-stats.vercel.app/api?username=kyuven&theme=blue-green)
