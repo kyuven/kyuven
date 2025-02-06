@@ -1,21 +1,12 @@
-<img width=100% src="https://i.pinimg.com/originals/bc/c5/a7/bcc5a77c3411338efc340251a0bb8060.gif"/>
+<img width=100% src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/06/pokemon-legends-arceus-where-to-find-and-catch-leafeon-1.jpg"/>
 
-# SKILLS - BACKEND / MOBILE
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![ANDROID STUDIO](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+- Gosto de programar em java;
+- Sou entusiasta da área de segurança e de dados;
+- Adoro pokemon;
+- Adoro ensinar tecnologia e ajudar outras pessoas na área
 
-# SKILLS - GAME DEV
-![UNITYL](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![BLENDER](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![ILLUSTRATOR](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-
-# SKILLS LEARNING
-### -> AWS - ESCOLA DA NUVEM
-### -> WEB BACKEND - JAVA | HTML | CSS | JAVASCRIPT
-### -> ANDROID STUDIO - JAVA
-### -> CYBER SECURITY | REDES
-
-# MY GRAPH
-![](https://github-readme-stats.vercel.app/api?username=kyuven&theme=blue-green)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,mysql,js,html,css,git,aws,androidstudio,firebase,unity,blender,photoshop,figma,office" />
+  </a>
+</p>
